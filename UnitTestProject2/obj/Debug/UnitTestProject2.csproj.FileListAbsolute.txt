@@ -1,0 +1,17 @@
+c:\users\pc\documents\visual studio 2015\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+c:\users\pc\documents\visual studio 2015\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+c:\users\pc\documents\visual studio 2015\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\pc\documents\visual studio 2015\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+c:\users\pc\documents\visual studio 2015\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\WebDriver.dll
+c:\users\pc\documents\visual studio 2015\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\WebDriver.Support.dll
+c:\users\pc\documents\visual studio 2015\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+c:\users\pc\documents\visual studio 2015\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+c:\users\pc\documents\visual studio 2015\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\WebDriver.pdb
+c:\users\pc\documents\visual studio 2015\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\WebDriver.xml
+c:\users\pc\documents\visual studio 2015\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\WebDriver.Support.pdb
+c:\users\pc\documents\visual studio 2015\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\WebDriver.Support.xml
+c:\users\pc\documents\visual studio 2015\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\pc\documents\visual studio 2015\Projects\UnitTestProject2\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+c:\users\pc\documents\visual studio 2015\Projects\UnitTestProject2\UnitTestProject2\obj\Debug\UnitTestProject2.pdb
+c:\users\pc\documents\visual studio 2015\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\geckodriver.exe
+c:\users\pc\documents\visual studio 2015\Projects\UnitTestProject2\UnitTestProject2\obj\Debug\UnitTestProject2.csprojResolveAssemblyReference.cache
